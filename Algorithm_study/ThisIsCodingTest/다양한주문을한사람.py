@@ -19,8 +19,6 @@ if __name__ == '__main__':
     N = int(sys.stdin.readline().rstrip())
 
     arr = [sys.stdin.readline().rstrip() for _ in range(N)]
-    #arr = ["alex pizza pasta steak", "bob noodle sandwich pasta",
-    #    "choi pizza sandwich pizza", "alex pizza pasta steak"]
     name = []
 
     # 이름 먼저 추출
